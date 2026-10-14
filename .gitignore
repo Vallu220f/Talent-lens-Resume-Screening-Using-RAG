@@ -1,0 +1,9 @@
+.env
+.env.txt
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+*.pdf
+*.zip
+chroma_db/
+.ipynb_checkpoints/
